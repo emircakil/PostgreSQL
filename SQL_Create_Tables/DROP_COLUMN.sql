@@ -1,0 +1,2 @@
+ALTER TABLE new_info
+DROP COLUMN people
